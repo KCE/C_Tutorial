@@ -29,6 +29,7 @@
 ### if...else programming exercises ###
 * Write a C program to find maximum between two numbers.
 * Write a C program to find maximum between three numbers.
+* Write a C program to change case of an alphabet.
 * Write a C program to check whether a number is negative, positive or zero.
 * Write a C program to check whether a number is divisible by 5 and 11 or not.
 * Write a C program to check whether a number is even or odd.
